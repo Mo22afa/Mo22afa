@@ -34,6 +34,25 @@ training, and evaluating intelligent systems.
 
 ---
 
+## 🌟 Featured Projects
+
+### 🦠 [Malaria Cell Classification — CNN vs YOLO11n](https://github.com/Mo22afa/Malaria-Classification-CNN-YOLO)
+- Classified malaria cell images as **Parasitized** or **Uninfected** using a custom CNN and YOLO11n Classification.
+- **Held-out test accuracy:** CNN **95.57%** | YOLO11n **96.88%** (80/10/10 data split).
+- **Tools:** Python, TensorFlow, Keras, Ultralytics, OpenCV.
+
+### 🌿 [Plant Disease Classification — ANN vs CNN](https://github.com/Mo22afa/plant-disease-classification)
+- Compared ANN, basic CNN, and improved CNN models for classifying plant leaf diseases using the PlantVillage dataset.
+- **Reported test accuracy:** ANN **67.02%** | Basic CNN **90.73%** | Improved CNN **93.25%**.
+- **Tools:** Python, TensorFlow, Keras.
+
+### 🎥 [Real-Time Motion Detection](https://github.com/Mo22afa/motion-detection)
+- Built a motion-detection system using OpenCV to detect movement in video frames and draw bounding boxes.
+- Includes an animated demonstration in the project repository.
+- **Tools:** Python, OpenCV, NumPy.
+
+---
+
 ## 🧠 Core Specialization
 
 ### 🤖 Machine Learning
