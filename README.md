@@ -5,11 +5,13 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/>
 
 <h1>Hi 👋 I'm Mostafa Abdelwahab</h1>
-<h3>Machine Learning | Deep Learning | Computer Vision Engineer</h3>
+<h3>Computer Science Student | AI & Computer Vision Developer</h3>
 
 <p>
-AI Engineer specialized in building intelligent systems using 
-Machine Learning, Deep Learning, and Computer Vision.  
+Computer Science student at King Salman International University, focused on
+Machine Learning, Deep Learning, and Computer Vision.
+I build practical AI projects and continue developing my skills in designing,
+training, and evaluating intelligent systems.
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Mo22afa&style=flat&color=orange&label=PROFILE+VIEWS"/>
