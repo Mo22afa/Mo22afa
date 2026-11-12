@@ -1,11 +1,7 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> 
-<br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/>
-
-<h1>Hi 👋 I'm Mostafa Abdelwahab</h1>
-<h3>Computer Science Student | AI & Computer Vision Developer</h3>
+<h1>Mostafa Abdelwahab</h1>
+<h3>Computer Science Student · AI & Computer Vision Developer</h3>
 
 <p>
 Computer Science student at King Salman International University, focused on
@@ -16,7 +12,7 @@ training, and evaluating intelligent systems.
 
 <img src="https://komarev.com/ghpvc/?username=Mo22afa&style=flat&color=orange&label=PROFILE+VIEWS"/>
 
-<br><br>
+<br>
 
 <a href="https://www.linkedin.com/in/mostafa-abd-alwhab-114830308">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -34,26 +30,7 @@ training, and evaluating intelligent systems.
 
 ---
 
-## 🌟 Featured Projects
-
-### 🦠 [Malaria Cell Classification — CNN vs YOLO11n](https://github.com/Mo22afa/Malaria-Classification-CNN-YOLO)
-- Classified malaria cell images as **Parasitized** or **Uninfected** using a custom CNN and YOLO11n Classification.
-- **Held-out test accuracy:** CNN **95.57%** | YOLO11n **96.88%** (80/10/10 data split).
-- **Tools:** Python, TensorFlow, Keras, Ultralytics, OpenCV.
-
-### 🌿 [Plant Disease Classification — ANN vs CNN](https://github.com/Mo22afa/plant-disease-classification)
-- Compared ANN, basic CNN, and improved CNN models for classifying plant leaf diseases using the PlantVillage dataset.
-- **Reported test accuracy:** ANN **67.02%** | Basic CNN **90.73%** | Improved CNN **93.25%**.
-- **Tools:** Python, TensorFlow, Keras.
-
-### 🎥 [Real-Time Motion Detection](https://github.com/Mo22afa/motion-detection)
-- Built a motion-detection system using OpenCV to detect movement in video frames and draw bounding boxes.
-- Includes an animated demonstration in the project repository.
-- **Tools:** Python, OpenCV, NumPy.
-
----
-
-## 🧠 Core Specialization
+## 🎯 Areas of Focus
 
 ### 🤖 Machine Learning
 - Classification • Regression • Clustering
@@ -74,7 +51,7 @@ training, and evaluating intelligent systems.
 
 ---
 
-## 💻 Programming Skills
+## 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
@@ -87,7 +64,7 @@ training, and evaluating intelligent systems.
 
 ---
 
-## 🛠 AI & Development Tools
+## 🛠️ Tools & Technologies
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
@@ -98,7 +75,7 @@ training, and evaluating intelligent systems.
 
 ---
 
-## 🚀 AI Development Workflow
+## 🔄 Development Workflow
 
 ```python
 ai_pipeline = {
@@ -108,3 +85,4 @@ ai_pipeline = {
     "Evaluation": ["Accuracy", "F1", "mAP"],
     "Deployment": ["API + Docker"]
 }
+```
